@@ -3,6 +3,7 @@
 This is a simple yet powerful Inventory Management System built using Python, Tkinter (GUI), and SQLite for the backend database. It allows users to perform full CRUD (Create, Read, Update, Delete) operations on products, search/filter products, and export inventory data to a CSV file — all through a clean graphical interface.
 
 ✨ Features
+<br>
 ✅ Add, Update, Delete product entries
 🔍 Search & filter products by name or category
 🧮 Auto-generated Product ID management
